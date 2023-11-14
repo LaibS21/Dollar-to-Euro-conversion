@@ -15,7 +15,7 @@ public class DollarEuro
 		// number eingeben
 		double dollar = sc.nextDouble();
 		
-		double euro = dollar * 0.86;
+		double euro = dollar * 0.90;
 		System.out.println(dollar+" Dollars are converted "+euro+" Euro!");
 		sc.close();
 	}
